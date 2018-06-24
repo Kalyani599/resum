@@ -1,0 +1,26 @@
+{
+  "basics":{
+    "name":"Kalyani",
+    "email":"kalyanithamalapakula@gmail.com",
+    "mobile":"+91-9999999988"
+  },
+  "education":[
+    {
+      "degree":"B-Tech",
+      "institute":"PSCMR",
+      "data":["2014-2018","72%"]
+    },
+    {
+      "degree":"Intermediate",
+      "institute":"MMK",
+      "data":["2012-2014","75%"]
+    },
+    {
+      "degree":"SSC",
+      "institute":"RHS",
+      "data":["2011-2012","7.7"]
+    }
+  ]
+
+
+  }
