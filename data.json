@@ -4,21 +4,50 @@
     "email":"kalyanithamalapakula@gmail.com",
     "mobile":"+91-9999999988"
   },
+  "career":{
+    "info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+  },
   "education":[
     {
       "degree":"B-Tech",
       "institute":"PSCMR",
-      "data":["2014-2018","72%"]
+      "data":["2015-2019","72%"]
     },
     {
       "degree":"Intermediate",
       "institute":"MMK",
-      "data":["2012-2014","75%"]
+      "data":["2012-2015","75%"]
     },
     {
       "degree":"SSC",
       "institute":"RHS",
       "data":["2011-2012","7.7"]
+    }
+  ],
+  "achievements":[
+    {
+      "name":"Awarded as<b>1<sup>st</sup>prize</b> in <q>Self-defence</q>"
+    },
+    {
+      "name":"Got<storng>1<sup>st</sup>prize</storng> in <q>PPT</q>"
+    }
+  ],
+  "technical":[
+    {
+      "name":"Programming Language",
+      "data":["C","java","C++","python","PHP"]
+    },
+    {
+      "name":"Database",
+      "data":["Mysql","oracle"]
+    },
+    {
+      "name":"Web Technology",
+      "data":["CSS","HTML","Javascript"]
+    },
+    {
+      "name":"Libraries and frameworks",
+      "data":["JOuery","codeIgnitor"]
     }
   ]
 
